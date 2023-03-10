@@ -1,0 +1,255 @@
+
+.icon{
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    margin-top: -50px;
+}
+
+.icon1{
+    float: left;
+    width: 430px;
+    background-color: white;
+    
+}
+
+
+
+.profile-img img{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    border-radius: 40px;
+    border: 1px solid black;
+}
+
+#input{
+    border: 0;
+  border-bottom: 1px solid green;
+  outline: 0;
+}
+
+
+
+.profile-icon{
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+}
+
+.profile-icon img{
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.chat-detail{
+    float: right;
+    width: 60%;
+}
+
+.search{
+    display: flex;
+    flex-direction: row;
+    width:429px;
+    margin-left: -50px;
+    height: 30px;
+    background-color: white;
+    border: 1px solid #e9edef;
+    padding-top: 5px;
+}
+
+.search input{
+    height: 30px;
+    width: 330px;
+    outline: 0;
+    margin-right: 15px;
+    background-color:#e9edef;
+    border: none;
+}
+
+.search1{
+    border-radius: 25px;
+}
+
+.search img{
+    width: 20px;
+    height: 20px;
+}
+
+.chat1{
+    display: flex;
+    flex-direction: row;
+    height: 70px;
+    width: 750px;
+}
+
+.icon2{
+    width: 670px;
+    margin-left: -30px;
+    background-color: #e7e8e9;
+    height: 66px;
+}
+
+.icon2 img{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    border-radius: 40px;
+    border: 1px solid black;
+}
+
+.people-pic img{
+    width: 50px;
+    height: 50px;
+    border-radius: 40px;
+    border: 1px solid black;
+}
+
+.people-chat h1{
+    font-size: 20px;
+    padding-bottom: -30px;
+    margin-top: -20px;
+}
+
+.people-chat{
+    padding: 20px;
+    overflow-y: hidden;
+    text-align: left;
+    margin-top: -10px;
+    margin-left: -10px;
+}
+
+.people-chat h1{
+    margin-bottom: -15px;
+    margin-top: -15px;
+}
+
+hr{
+    width: 350px;
+    color: #e7e8e9;
+    margin-top: -10px;
+    margin-left: 70px;
+}
+
+.chat1:hover{
+    background-color: #e7e8e9;
+    cursor: pointer;
+}
+
+img:hover{
+    cursor: pointer;
+}
+
+.idopen{
+    width: 430px;
+}
+
+
+.profile-name{
+    width:430px;
+    height:100px;
+    background-color:#008069;
+    color: white;
+    display: flex;
+    flex-direction: row;
+}
+
+.profile-name h1{
+    padding-top: 30px;
+    margin-left: 20px;
+}
+
+.profile-name button{
+    height: 30px;
+    margin-top: 60px;
+}
+
+.profile_img{   
+    width:430px;
+    height: 250px;
+    background-color: #eae6df;
+}
+
+.profile_img img{
+    width: 180px;
+    height: 180px;
+    border-radius: 100px;
+    margin-top: 35px;
+    margin-left: 100px;
+}
+
+.profile_name{
+    width:430px;
+    height: 70px;
+    background-color: white; 
+    height: 90px
+}
+
+.profile_name p{
+    color: #008069;
+    text-align: left;
+    margin-top: -20px;
+    margin-left: 20px;
+}
+
+.profile_detail{
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+    margin-top: -20px;
+}
+
+.profile_detail h3{
+    color: gray;
+    text-align: left;
+    width:200px
+    
+}
+
+.profile_detail button{
+    height: 20px;
+    text-align: right;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+
+.any-thing{
+    width: 430px;
+    height: 70px;
+    background-color: #eae6df;
+    margin-top: -30px;
+}
+
+.about{
+        width:430px;
+        height: 70px;
+        background-color: white;   
+        margin-top: -30px;
+}
+
+.about-abo p{
+    color: #008069;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.about-detail h3{
+    color: gray;
+    text-align: left;
+}
+
+.about-detail button{
+    height: 20px;
+    text-align: right;
+    margin-top: -200px;
+    margin-left: 300px;
+}
+
+.chat{
+    margin-left: 30px;
+    margin-top: 30px;
+}
